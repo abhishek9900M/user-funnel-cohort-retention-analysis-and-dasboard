@@ -1,4 +1,4 @@
-# Product Funnel & Retention Dashboard
+# Product Funnel & Retention Analysis And Dashboard
 
 A data analytics project designed to understand user acquisition, engagement, conversion, and retention through event-level user data.
 
